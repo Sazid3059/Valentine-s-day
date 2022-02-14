@@ -1,0 +1,48 @@
+h1{
+    font-weight: 1200;
+    font-family: 'Varela Round', sans-serif;
+    color: rgb(225, 134, 151);
+    font-size: 53px
+
+}
+.H{
+    margin-left: 340px;
+    margin-top: 98px;
+}
+
+.class{
+    display: flex;
+    margin-top: 35px;
+    margin-left: 500px;
+}
+a{
+   
+   border: 1px solid rgb(225, 134, 151);
+   margin-right: 50px;
+   text-decoration: none;
+   padding: 15px 40px;
+   color: white;
+   font-family: 'Segoe UI';
+   font-weight: 590;   
+   border-radius: 5px;
+   font-size: 16px;
+   background-color: rgb(225, 134, 151);
+}
+.propose img{
+    width: 350px;
+    margin-left: 490px;
+}
+
+.couple img{
+    width: 335px;
+    margin-left: 498px;
+}
+.love{
+ margin-left: 530px;
+}
+h2{
+    font-weight: 1200;
+    font-family: 'Varela Round', sans-serif;
+    color: rgb(225, 134, 151);
+    font-size: 65px
+}
